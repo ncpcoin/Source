@@ -2,10 +2,10 @@
 
 ### Overview 
 
-If you are a newcomer, check out the [CureCoin website](https://curecoin.net/) which explains CureCoin in simple and everyday terms. You can find statistics on the current state of the CureCoin research rates on the [Team Stats Page](https://folding.extremeoverclocking.com/team_summary.php?s=&t=224497) and blockchain status and info on the [CureCoin Block Explorer](https://chainz.cryptoid.info/cure/)
+If you are a newcomer, check out the [NCPCoin website](https://ncpcoin.org/) which explains NCPCoin in simple and everyday terms. You can find statistics on the current state of the NCPCoin research rates on the [Team Stats Page](https://folding.extremeoverclocking.com/team_summary.php?s=&t=224497) and blockchain status and info on the [NCPCoin Block Explorer](https://chainz.cryptoid.info/ncpcoin/)
 
 ### Joining the NCPCoin network is easy:
-On Windows, the [All-In-One FoldingBrowser Installer](https://github.com/Hou5e/FoldingBrowser/releases) provides a quick setup for running Folding@home to earn both CureCoin and FoldingCoin.
+On Windows, the [All-In-One FoldingBrowser Installer](https://github.com/Hou5e/FoldingBrowser/releases) provides a quick setup for running Folding@home to earn both NcpCoin and FoldingCoin.
 
 ### Or, setup for getting NCPCoin only for running Folding@home with any username:
 1. Install the [Folding@home software](https://foldingathome.org/start-folding/), or the [F@H Chrome Browser plugin](https://chrome.google.com/webstore/detail/foldinghome/hmnbjdgjgikbkapaolimfoidihobnofo) (CPU only, better for lower power laptops)
@@ -16,7 +16,7 @@ On Windows, the [All-In-One FoldingBrowser Installer](https://github.com/Hou5e/F
 
 ## Standard Wallet Installation
 
-[CureCoin GitHub Releases](https://github.com/cygnusxi/CurecoinSource/releases) has the Windows, Mac, Linux wallet downloads.  
+[CureCoin GitHub Releases](https://github.com/ncpcoin/releases) has the Windows, Mac, Linux wallet downloads.  
 **CureCoin v2.0 is a mandatory update.** Older wallets need to be updated to this version (or newer) to work correctly.
 
 ## Linux Installation From Source
@@ -27,7 +27,7 @@ If you do not use Linux, see previous section for a prebuilt wallet. There are t
 
     This involves downloading the source, meeting the dependencies, compiling the code, and then installing the resulting software.
 
-    git clone https://github.com/cygnusxi/CurecoinSource.git
+    git clone https://github.com/ncpcoin/Source.git
 
     ### FOR THE GUI CLIENT:
     > 1. **sudo apt-get install qt5-default qt5-qmake qtbase5-dev-tools qttools5-dev-tools libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libssl-dev libminiupnpc-dev libdb5.3++-dev dh-make build-essential** &nbsp; &nbsp; &nbsp; &nbsp; {See: **NOTES** below}
@@ -57,7 +57,7 @@ sudo apt-get install libssl1.0-dev
 mkdir curecoin
 cd curecoin
 
-git clone https://github.com/cygnusxi/CurecoinSource.git
+git clone https://github.com/ncpcoin/Source.git
 cd CurecoinSource
 qmake
 make
@@ -66,8 +66,8 @@ make
 
 ### Reporting Bugs or Getting Assistance
 
-Ask questions on the [CureCoin Discord](https://discord.gg/jtztkFZ). Other general help can be searched for on the [CureCoin forums](https://curecoin.net/forum/).
+Ask questions on the [NCPCoin Discord](https://discord.gg/mtztkFZ). Other general help can be searched for on the [NCPCoin forums](https://ncpcoin.org/forum/).
 
 ### Donations
 
-Stars on this repo are appreciated as it helps improve the visibility of this repository. If you'd like to do more than that, you can tip CureCoins on the [CureCoin website](https://curecoin.net/).
+Stars on this repo are appreciated as it helps improve the visibility of this repository. If you'd like to do more than that, you can tip CureCoins on the [NCPCoin website](https://ncpcoin.org/).
