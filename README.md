@@ -1,13 +1,13 @@
-## CureCoin Wallet 
+## NCPCoin Wallet 
 
 ### Overview 
 
 If you are a newcomer, check out the [CureCoin website](https://curecoin.net/) which explains CureCoin in simple and everyday terms. You can find statistics on the current state of the CureCoin research rates on the [Team Stats Page](https://folding.extremeoverclocking.com/team_summary.php?s=&t=224497) and blockchain status and info on the [CureCoin Block Explorer](https://chainz.cryptoid.info/cure/)
 
-### Joining the CureCoin network is easy:
+### Joining the NCPCoin network is easy:
 On Windows, the [All-In-One FoldingBrowser Installer](https://github.com/Hou5e/FoldingBrowser/releases) provides a quick setup for running Folding@home to earn both CureCoin and FoldingCoin.
 
-### Or, setup for getting CureCoin only for running Folding@home with any username:
+### Or, setup for getting NCPCoin only for running Folding@home with any username:
 1. Install the [Folding@home software](https://foldingathome.org/start-folding/), or the [F@H Chrome Browser plugin](https://chrome.google.com/webstore/detail/foldinghome/hmnbjdgjgikbkapaolimfoidihobnofo) (CPU only, better for lower power laptops)
 2. Pick a Folding@home Username & get a [Passkey](https://apps.foldingathome.org/getpasskey)
 3. Enter "224497" as the Team number to fold under
